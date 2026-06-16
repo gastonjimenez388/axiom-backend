@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+flask
+flask-cors
+requests
